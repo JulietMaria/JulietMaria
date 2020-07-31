@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+code to view profile view counts
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JulietMaria" alt="julietmaria" /> </p>
+
+
 -->
