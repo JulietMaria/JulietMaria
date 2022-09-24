@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Juliet Maria
+Fullstack Developer
 
 <!--
 **JulietMaria/JulietMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
