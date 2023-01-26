@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Juliet Maria
+
 Fullstack Developer
+
+Java | Angular | Hibernate | Oracle SQL
 
 <!--
 **JulietMaria/JulietMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
