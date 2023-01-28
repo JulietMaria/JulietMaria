@@ -1,8 +1,11 @@
 ### Hi there 👋 I'm Juliet Maria
 
-Fullstack Developer
+![Fullstack Developer](https://github.com/JulietMaria/JulietMaria/blob/master/image.webp?raw=true)
+
 
 Java | Angular | Hibernate | Oracle SQL
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JulietMaria&show_icons=true&theme=radical)
 
 <!--
 **JulietMaria/JulietMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JulietMaria&show_icons=true&theme=radical)
+
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JulietMaria&langs_count=10&theme=tokyonight)]()
 -->
