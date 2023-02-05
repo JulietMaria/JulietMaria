@@ -19,11 +19,16 @@ Fullstack developer with experience in Java,Angular,Hibernate and Oracle SQL.
 ![](https://github-profile-trophy.vercel.app/?username=JulietMaria&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JulietMaria&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Views](https://komarev.com/ghpvc/?username=JulietMaria)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 Java | Angular | Hibernate | Oracle SQL
+
+[![](https://visitcount.itsvg.in/api?id=JulietMaria&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JulietMaria&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JulietMaria&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api?username=JulietMaria&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
