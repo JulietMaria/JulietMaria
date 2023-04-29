@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Juliet Maria
-
+<!--
 ![Fullstack Developer](https://github.com/JulietMaria/JulietMaria/blob/master/image.webp?raw=true)
+-->
 # 💫 About Me:
 Fullstack developer with experience in Java,Angular,Hibernate and Oracle SQL.
 
